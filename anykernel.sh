@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Eva Kernel by m_vaisakh @ xda-developers
+kernel.string=Sleepy Kernel by LinkBoi00
 do.devicecheck=1
 do.modules=1
 do.systemless=1
